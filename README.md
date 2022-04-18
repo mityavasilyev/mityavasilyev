@@ -8,6 +8,12 @@
 - 📄 Woul'd like to see a full resume? Get it via [HH.ru](https://hh.ru/resume/6b1aaf15ff091123d30039ed1f4a3879524e35) or [LinkedIn](https://www.linkedin.com/in/mitya-vasilyev/)
 
 <br/>
+<!-- Github Stats -->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityavasilyev&show_icons=true&theme=github_dark&locale=en&hide_border=true" alt="mityavasilyev_github_stats" /></p>
+<!-- Lang stats -->
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mityavasilyev" alt="mityavasilyev_lang_stats" /></p> -->
+
+<br/>
 <h2>Few words about me</h2> <p align="left">
 Hello there, name's Dmitry. Though friends call me Mitya<br/>
 I am a full-stack java developer. To be more specific, my regular project looks a bit like this: <br/>
@@ -26,12 +32,6 @@ It is also worth mentioning that I am a team player so be sure that I would love
 Guess that's about it on the programming subject. Would love to tell everything not related to programming personally)
 
 </p>
-
-<br/>
-<!-- Github Stats -->
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityavasilyev&show_icons=true&theme=github_dark&locale=en&hide_border=true" alt="mityavasilyev_github_stats" /></p>
-<!-- Lang stats -->
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mityavasilyev" alt="mityavasilyev_lang_stats" /></p> -->
 
 <!-- Stack summary -->
 <h3 align="left">My Stack Higlights</h3>
