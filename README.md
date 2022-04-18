@@ -28,7 +28,7 @@ Guess that's about it on the programming subject. Would love to tell everything 
 </p>
 
 <br/>
-<h2 align="center"> Show-off time </h3>
+<h3 align="center"> Show-off time </h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityavasilyev&show_icons=true&theme=dracula&locale=en" alt="mityavasilyev" /></p>
 
 <h3 align="left">My Stack Higlights</h3>
