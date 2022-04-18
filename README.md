@@ -28,8 +28,12 @@ Guess that's about it on the programming subject. Would love to tell everything 
 </p>
 
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityavasilyev&show_icons=true&theme=dracula&locale=en" alt="mityavasilyev" /></p>
+<!-- Github Stats -->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityavasilyev&show_icons=true&theme=github_dark&locale=en&hide_border=true" alt="mityavasilyev_github_stats" /></p>
+<!-- Lang stats -->
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mityavasilyev" alt="mityavasilyev_lang_stats" /></p> -->
 
+<!-- Stack summary -->
 <h3 align="left">My Stack Higlights</h3>
 <h5>Full list of experiences and tools I use can be found in my resume</h5>
 <br/>
