@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mityavasilyev&label=Profile%20views&color=0e75b6&style=flat" alt="mityavasilyev" /> </p>
 <h1 align="center">Full-stack Java Developer</h3>
 
-- 🔭 I’m currently **available for hire**
+- 🔭 I’m currently **employed but open to collaboration**
 
 - 📫 Reach me via **contact.dmitry.vasilyev@gmail.com**
 
