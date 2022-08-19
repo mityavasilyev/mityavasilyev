@@ -5,7 +5,7 @@
 
 - 📫 Reach me via **contact.dmitry.vasilyev@gmail.com**
 
-- 📄 Woul'd like to see a full resume? Get it via [HH.ru](https://hh.ru/resume/6b1aaf15ff091123d30039ed1f4a3879524e35) or [LinkedIn](https://www.linkedin.com/in/mitya-vasilyev/)
+- 📄 Would like to see a full resume? Get it via [HH.ru](https://hh.ru/resume/6b1aaf15ff091123d30039ed1f4a3879524e35) or [LinkedIn](https://www.linkedin.com/in/mitya-vasilyev/)
 
 <br/>
 <!-- Github Stats -->
