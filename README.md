@@ -9,7 +9,7 @@
 
 <br/>
 <!-- Github Stats -->
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityavasilyev&show_icons=true&theme=github_dark&locale=en&hide_border=true" alt="mityavasilyev_github_stats" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityavasilyev&theme=github_dark&locale=en&hide_border=true" alt="mityavasilyev_github_stats" /></p>
 <!-- Lang stats -->
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mityavasilyev" alt="mityavasilyev_lang_stats" /></p> -->
 
