@@ -16,20 +16,32 @@
 <br/>
 <h2>Few words about me</h2> <p align="left">
 Hello there, name's Dmitry. Though friends call me Mitya<br/>
-I am a full-stack java developer. To be more specific, my regular project looks a bit like this: <br/>
-- Managing project repo and pipeline (setting up build checks, auto-tests and 3d-party static code checks, deployment)<br/>
-- Designing application architecture<br/>
-- Developing backend server (setting up dbs, managing host-specific requirements, developing server itself, dockerizing)<br/>
-- Developing frontend application (Most of the time I use React)<br/>
-- Testing (I sure would like my next plane tested before getting on it. Covering backend mostly)<br/>
-- Deployment (At the end of the day you still need to use the application somehow)<br/>
+<h4>As a developer:</h2>
+I am a full-stack java developer. To be more specific, my regular project looks a bit like this:
+ 
++ Managing project repo and pipeline (setting up build checks, auto-tests and 3d-party static code checks, deployment)<br/>
++ Designing application architecture<br/>
++ Developing backend server (setting up dbs, managing host-specific requirements, developing server itself, dockerizing)<br/>
++ Developing frontend application (Most of the time I use React)<br/>
++ Testing (I sure would like my next plane tested before getting on it. Covering backend mostly)<br/>
++ Deployment (At the end of the day you still need to use the application somehow)<br/>
 
 Even though I cover all the stages of app development, I consider myself mostly a backend developer
 and tend to advance in such a trajectory.
 
-It is also worth mentioning that I am a team player so be sure that I would love to collaborate on the projects that may be interesting to me.
+<h4>As a team lead:</h4>
+Team work is essential when we're talking about complex solutions, therefore <br/> 
+both in team projects or my job as a Team Lead at T1 Group my main focuses are:<br/><br/>
 
-Guess that's about it on the programming subject. Would love to tell everything not related to programming personally)
++ **Constantly increasing competences of my team** <br/>
+  The more people know - the more complex tasks that they can complete 
++ **Personal growth trajectory** <br/>
+  Whether we are talking about junior dev or senior QA - it is crucial to create environment where they can not only complete their tasks, but grow as experts in their field
++ **Team building** <br/>
+  Even with all-senior staff - they still need to operate as one. In my team you can always expect to get help or support you may need and be sure that everyone will deliver
+
+
+Guess that's about it on the code/work subject. Would love to tell everything not related to programming personally)
 
 </p>
 
