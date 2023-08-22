@@ -16,7 +16,7 @@
 <br/>
 <h2>Few words about me</h2> <p align="left">
 Hello there, name's Dmitry. Though friends call me Mitya<br/>
-<h4>As a developer:</h2>
+<h4>👨🏼‍💻 As a developer:</h2>
 I am a full-stack java developer. To be more specific, my regular project looks a bit like this:
  
 + Managing project repo and pipeline (setting up build checks, auto-tests and 3d-party static code checks, deployment)<br/>
@@ -29,7 +29,7 @@ I am a full-stack java developer. To be more specific, my regular project looks 
 Even though I cover all the stages of app development, I consider myself mostly a backend developer
 and tend to advance in such a trajectory.
 
-<h4>As a team lead:</h4>
+<h4>🫱🏼‍🫲🏽 As a team lead:</h4>
 Team work is essential when we're talking about complex solutions, therefore <br/> 
 both in team projects or my job as a Team Lead at T1 Group my main focuses are:<br/><br/>
 
