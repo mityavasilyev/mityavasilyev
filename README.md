@@ -34,7 +34,7 @@ Team work is essential when we're talking about complex solutions, therefore <br
 both in team projects or my job as a Team Lead at T1 Group my main focuses are:<br/><br/>
 
 + **Constantly increasing competences of my team** <br/>
-  The more people know - the more complex tasks that they can complete 
+  The more people know - the more complex tasks they can complete 
 + **Personal growth trajectory** <br/>
   Whether we are talking about junior dev or senior QA - it is crucial to create environment where they can not only complete their tasks, but grow as experts in their field
 + **Team building** <br/>
